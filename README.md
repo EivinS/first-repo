@@ -1,3 +1,5 @@
 # first-repo
 
-my name is eivin
+my name is eivin.
+
+Changes
